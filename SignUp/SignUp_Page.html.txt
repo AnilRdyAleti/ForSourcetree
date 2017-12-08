@@ -4,7 +4,7 @@
 
 <h1>My SignUp Page Heading</h1>
 
-<p>My first paragraph.</p>
+<p>My first SignUp Page Heading</p>
 
 </body>
 </html>
